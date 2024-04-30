@@ -24,7 +24,7 @@ Adapt paths as needed based on your system configuration.
 Execute the necessary commands/batch file for the desired output. 
 ```
 DEVELOPED BY : PRADEEP E
-REG NO : 2122223230149
+REG NO : 212223230149
 ```
 ## WINDOWS COMMANDS :
 ## Exercise 1: Basic Directory and File Operations
